@@ -11,6 +11,19 @@ Este projeto visa a construção de um servidor doméstico econômico, com orça
   <img src="img4.jpg" width="200" />
 </p>  
 
+<br/>
+
+### Gastos com servidor caseiro
+
+| Peça                                                        | Valor     | Plataforma |
+|-------------------------------------------------------------|-----------|------------|
+| Gabinete Gamer Microcraft III - CG-03RC                     | R$ 255,72 | OLX/MG     |
+| Kit Placa mãe, Processador i5 4570, 16GB DDR3 e Fonte 500W  | R$ 379,00 | OLX/DF     |
+
+Subtotal: R$ 634,72
+
+<br/>
+
 ## 🧰 Funcionalidades
 
 1. **Servidor de Arquivos (Backup)**
