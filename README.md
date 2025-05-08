@@ -6,8 +6,8 @@ Este projeto visa a construção de um servidor doméstico econômico, com orça
 
 <p align="center">
   <img src="img1.jpg" width="200" />
-  <img src="img2.jpg" width="200" />
-  <img src="img3.jpg" width="200" />
+  <img src="https://github.com/moraiscode/servidor-caseiro/blob/main/img2.jpg" width="200" />
+  <img src="https://github.com/moraiscode/servidor-caseiro/blob/main/img3.jpg" width="200" />
   <img src="img4.jpg" width="200" />
 </p>  
 
