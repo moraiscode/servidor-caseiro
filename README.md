@@ -4,10 +4,12 @@ Este projeto visa a construção de um servidor doméstico econômico, com orça
 
 ## 📸 Imagens do Projeto
 
-![Imagem 1](img1.jpg)
-![Imagem 2](img2.jpg)
-![Imagem 3](img3.jpg)
-![Imagem 4](img4.jpg)
+<p align="center">
+  <img src="img1.jpg" width="200" />
+  <img src="img2.jpg" width="200" />
+  <img src="img3.jpg" width="200" />
+  <img src="img4.jpg" width="200" />
+</p>  
 
 ## 🧰 Funcionalidades
 
