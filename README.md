@@ -50,6 +50,8 @@ Subtotal: R$ 634,72
    * **Batocera**: Distribuição Linux voltada para emulação de jogos antigos.
    * **Bazzite ou HoloISO**: Sistemas baseados no SteamOS para jogos modernos via Steam.
 
+<br>
+
 ## 🪧 Especificações da Placa-Mãe IPMH81G1
 
 | Componente               | Especificação                                       |
