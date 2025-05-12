@@ -19,8 +19,9 @@ Este projeto visa a construção de um servidor doméstico econômico, com orça
 |-------------------------------------------------------------|-----------|------------|
 | Gabinete Gamer Microcraft III - CG-03RC                     | R$ 255,72 | OLX/MG     |
 | Kit Placa mãe, Processador i5 4570, 16GB DDR3 e Fonte 500W  | R$ 379,00 | OLX/DF     |
+| Placa Wi-fi 6 e Bluetooth 5.2  | R$ 124,33 | OLX/DF     |
 
-Subtotal: R$ 634,72
+Subtotal: R$ 759,05
 
 <br/>
 
