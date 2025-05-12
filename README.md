@@ -80,8 +80,8 @@ Subtotal: R$ 759,05
 | Componente               | Especificação                                                         |
 | ------------------------ | --------------------------------------------------------------------- |
 | **Processador**          | Intel Core i5-4570, 4 núcleos, 4 threads, 3.2 GHz (turbo até 3.6 GHz) |
-| **Memória RAM**          | 8 GB DDR3 1600 MHz                                                    |
-| **Armazenamento**        | 2x HDD de 1TB (um para Xubuntu, outro para Batocera)                  |
+| **Memória RAM**          | 16 GB DDR3 1600 MHz                                                    |
+| **Armazenamento**        | 1x SSD de 1TB (um para Xubuntu, outro para Batocera)                  |
 | **Placa de Vídeo**       | Integrada Intel HD Graphics 4600                                      |
 | **Fonte de Alimentação** | 500W Real                                                             |
 | **Gabinete**             | Micro-ATX com ventilação frontal e traseira                           |
