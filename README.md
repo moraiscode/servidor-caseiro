@@ -37,7 +37,13 @@ Subtotal: R$ 759,05
 
 5. **Automações locais via N8N e Evolution API**
 
-6. **Containers Docker**:  <br>
+6. **Dual Boot**:
+
+   * **Xubuntu**: Sistema principal para execução dos serviços Docker mencionados acima.
+   * **Batocera**: Distribuição Linux voltada para emulação de jogos antigos.
+   * **Bazzite ou HoloISO**: Sistemas baseados no SteamOS para jogos modernos via Steam.
+
+7. **Containers Docker**:  
 
 
 | Nome                                                                                 | Descrição                                                           |
@@ -54,12 +60,6 @@ Subtotal: R$ 759,05
 | [![RomM](https://img.shields.io/badge/RomM-Proxies%20e%20VPN-purple)](#)                           | Gerenciamento de conexões proxy e VPN para segurança e privacidade. |
 | [![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue)](https://www.zerotier.com/)   | Rede virtual privada para conectar dispositivos de forma segura.    | 
 
-
-7. **Dual Boot**:
-
-   * **Xubuntu**: Sistema principal para execução dos serviços Docker mencionados acima.
-   * **Batocera**: Distribuição Linux voltada para emulação de jogos antigos.
-   * **Bazzite ou HoloISO**: Sistemas baseados no SteamOS para jogos modernos via Steam.
 
 <br>
 
