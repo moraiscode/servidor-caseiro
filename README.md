@@ -37,7 +37,7 @@ Subtotal: R$ 759,05
 
 5. **Automações locais via N8N e Evolution API**
 
-6. **Containers Docker**:  <br>
+6. **Containers Docker**:  <br><br>
 
 
 | Nome                                                                                 | Descrição                                                           |
