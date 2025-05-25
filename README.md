@@ -31,9 +31,13 @@ Subtotal: R$ 759,05
 
 2. **Sincronizador de Saves de Jogos via Syncthing**
 
-3. **Download de Torrents**
+3. **Download de Torrents e Arquivos**
 
-4. **Containers Docker**: 
+4. **Controle de Casa Inteligente com rede Tuya e ESP32**
+
+5. **Automações locais via N8N e Evolution API**
+
+6. **Containers Docker**: 
 
 | Nome                                                                                 | Descrição                                                           |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
