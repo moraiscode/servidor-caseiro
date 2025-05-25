@@ -54,7 +54,6 @@ Subtotal: R$ 759,05
 | [![RomM](https://img.shields.io/badge/RomM-Proxies%20e%20VPN-purple)](#)                           | Gerenciamento de conexões proxy e VPN para segurança e privacidade. |
 | [![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue)](https://www.zerotier.com/)   | Rede virtual privada para conectar dispositivos de forma segura.    | 
 
-<br>
 
 7. **Dual Boot**:
 
