@@ -37,7 +37,7 @@ Subtotal: R$ 759,05
 
 | Nome           | Propósito                   | Descrição                                                           |
 | -------------- | --------------------------- | ------------------------------------------------------------------- |
-| ![N8N](https://img.shields.io/badge/n8n-Workflow%20Automation-orange) [N8N](https://n8n.io/)            | Automação de Fluxos         | Plataforma de automação de fluxos de trabalho com interface visual. |
+| ![N8N](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)            | Automação de Fluxos         | Plataforma de automação de fluxos de trabalho com interface visual. |
 | ![Evolution API](https://img.shields.io/badge/Evolution%20API-API%20de%20Integração-blue) [Evolution API](#)  | API de Integração           | Interface para integração de serviços e aplicativos diversos.       |
 | ![CasaOS](https://img.shields.io/badge/CasaOS-Gerenciamento%20Doméstico-brightgreen) [CasaOS](https://casaos.io/)         | Gerenciamento Doméstico     | Sistema operacional para gerenciamento de dispositivos domésticos.  |
 | ![Netdata](https://img.shields.io/badge/Netdata-Monitoramento%20de%20Sistema-red) [Netdata](https://www.netdata.cloud/)        | Monitoramento de Sistema    | Ferramenta de monitoramento em tempo real de recursos do sistema.   |
