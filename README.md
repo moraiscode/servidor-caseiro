@@ -37,7 +37,7 @@ Subtotal: R$ 759,05
 
 5. **Automações locais via N8N e Evolution API**
 
-6. **Containers Docker**: 
+6. **Containers Docker**:  \n
 
 | Nome                                                                                 | Descrição                                                           |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
@@ -54,8 +54,7 @@ Subtotal: R$ 759,05
 | [![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue)](https://www.zerotier.com/)   | Rede virtual privada para conectar dispositivos de forma segura.    |
 
 
-
-5. **Dual Boot**:
+7. **Dual Boot**:
 
    * **Xubuntu**: Sistema principal para execução dos serviços Docker mencionados acima.
    * **Batocera**: Distribuição Linux voltada para emulação de jogos antigos.
