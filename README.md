@@ -52,9 +52,11 @@ Subtotal: R$ 759,05
 | [![Syncthing](https://img.shields.io/badge/Syncthing-Sync%20Files-orange)](https://syncthing.net/)     | Aplicação de sincronização de arquivos P2P segura e descentralizada.|
 | [![MySpeed](https://img.shields.io/badge/MySpeed-Speed%20Testing-blue)](#)                         | Ferramenta para teste e monitoramento de velocidade de rede.        |
 | [![RomM](https://img.shields.io/badge/RomM-Proxies%20e%20VPN-purple)](#)                           | Gerenciamento de conexões proxy e VPN para segurança e privacidade. |
-| [![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue)](https://www.zerotier.com/)   | Rede virtual privada para conectar dispositivos de forma segura.    |
+| [![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue)](https://www.zerotier.com/)   | Rede virtual privada para conectar dispositivos de forma segura.    | 
 
-<br>
+<br> 
+
+
 7. **Dual Boot**:
 
    * **Xubuntu**: Sistema principal para execução dos serviços Docker mencionados acima.
