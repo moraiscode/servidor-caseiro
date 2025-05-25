@@ -33,17 +33,22 @@ Subtotal: R$ 759,05
 
 3. **Download de Torrents**
 
-4. **Containers Docker**:
+4. **Containers Docker**: 
 
-   | Nome           | Propósito                   | Descrição                                                           |
-   | -------------- | --------------------------- | ------------------------------------------------------------------- |
-   | N8N            | Automação de Fluxos         | Plataforma de automação de fluxos de trabalho com interface visual. |
-   | Evolution API  | API de Integração           | Interface para integração de serviços e aplicativos diversos.       |
-   | CasaOS         | Gerenciamento Doméstico     | Sistema operacional para gerenciamento de dispositivos domésticos.  |
-   | Netdata        | Monitoramento de Sistema    | Ferramenta de monitoramento em tempo real de recursos do sistema.   |
-   | Easypanel      | Gerenciamento de Aplicações | Painel de controle para gerenciamento de aplicações e serviços.     |
-   | Home Assistant | Automação Residencial       | Plataforma de automação residencial de código aberto.               |
-   | Portainer      | Gerenciamento de Containers | Interface para gerenciamento de containers Docker.                  |
+| Nome           | Propósito                   | Descrição                                                           |
+| -------------- | --------------------------- | ------------------------------------------------------------------- |
+| ![N8N](https://img.shields.io/badge/n8n-Workflow%20Automation-orange) [N8N](https://n8n.io/)            | Automação de Fluxos         | Plataforma de automação de fluxos de trabalho com interface visual. |
+| ![Evolution API](https://img.shields.io/badge/Evolution%20API-API%20de%20Integração-blue) [Evolution API](#)  | API de Integração           | Interface para integração de serviços e aplicativos diversos.       |
+| ![CasaOS](https://img.shields.io/badge/CasaOS-Gerenciamento%20Doméstico-brightgreen) [CasaOS](https://casaos.io/)         | Gerenciamento Doméstico     | Sistema operacional para gerenciamento de dispositivos domésticos.  |
+| ![Netdata](https://img.shields.io/badge/Netdata-Monitoramento%20de%20Sistema-red) [Netdata](https://www.netdata.cloud/)        | Monitoramento de Sistema    | Ferramenta de monitoramento em tempo real de recursos do sistema.   |
+| ![Easypanel](https://img.shields.io/badge/Easypanel-Gerenciamento%20de%20Aplicações-yellow) [Easypanel](https://easypanel.io/)      | Gerenciamento de Aplicações | Painel de controle para gerenciamento de aplicações e serviços.     |
+| ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Automação%20Residencial-blueviolet) [Home Assistant](https://www.home-assistant.io/) | Automação Residencial       | Plataforma de automação residencial de código aberto.               |
+| ![Portainer](https://img.shields.io/badge/Portainer-Gerenciamento%20de%20Containers-lightgrey) [Portainer](https://www.portainer.io/)      | Gerenciamento de Containers | Interface para gerenciamento de containers Docker.                  |
+| ![Syncthing](https://img.shields.io/badge/Syncthing-Sync%20Files-orange) [Syncthing](https://syncthing.net/)          | Sincronização de Arquivos   | Aplicação de sincronização de arquivos P2P segura e descentralizada.|
+| ![MySpeed](https://img.shields.io/badge/MySpeed-Speed%20Testing-blue) [MySpeed](#)            | Teste de Velocidade         | Ferramenta para teste e monitoramento de velocidade de rede.        |
+| ![RomM](https://img.shields.io/badge/RomM-Proxies%20e%20VPN-purple) [RomM](#)              | Proxies e VPN               | Gerenciamento de conexões proxy e VPN para segurança e privacidade. |
+| ![ZeroTier](https://img.shields.io/badge/ZeroTier-VPN%20e%20Rede-blue) [ZeroTier](https://www.zerotier.com/)          | VPN e Rede                  | Rede virtual privada para conectar dispositivos de forma segura.    |
+
 
 5. **Dual Boot**:
 
