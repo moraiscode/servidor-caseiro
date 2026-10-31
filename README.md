@@ -55,7 +55,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Peça</th><th align="left">Valor</th><th align="left">Origem</th></tr>
+    <tr><th align="left" width="60%">Peça</th><th align="left" width="20%">Valor</th><th align="left" width="20%">Origem</th></tr>
   </thead>
   <tbody>
     <tr><td>Gabinete Gamer Microcraft III (CG-03RC)</td><td>R$ 255,72</td><td>OLX/MG</td></tr>
@@ -74,7 +74,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Componente</th><th align="left">Especificação</th></tr>
+    <tr><th align="left" width="30%">Componente</th><th align="left" width="70%">Especificação</th></tr>
   </thead>
   <tbody>
     <tr><td>Processador</td><td>Intel Core i5-4570, 4 núcleos, 4 threads, 3,2 GHz (turbo até 3,6 GHz)</td></tr>
@@ -90,7 +90,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Componente</th><th align="left">Especificação</th></tr>
+    <tr><th align="left" width="30%">Componente</th><th align="left" width="70%">Especificação</th></tr>
   </thead>
   <tbody>
     <tr><td>Socket</td><td>LGA 1150 (Intel Core 4ª geração, Xeon E3 v3)</td></tr>
@@ -119,7 +119,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Sistema</th><th align="left">Função</th></tr>
+    <tr><th align="left" width="30%">Sistema</th><th align="left" width="70%">Função</th></tr>
   </thead>
   <tbody>
     <tr><td>Xubuntu</td><td>Sistema principal. Executa os serviços em Docker.</td></tr>
@@ -134,7 +134,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Funcionalidade</th><th align="left">Descrição</th></tr>
+    <tr><th align="left" width="30%">Funcionalidade</th><th align="left" width="70%">Descrição</th></tr>
   </thead>
   <tbody>
     <tr><td>Servidor de arquivos</td><td>Backup centralizado.</td></tr>
@@ -149,7 +149,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Serviço</th><th align="left">Função</th></tr>
+    <tr><th align="left" width="30%">Serviço</th><th align="left" width="70%">Função</th></tr>
   </thead>
   <tbody>
     <tr><td><a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?logo=n8n&logoColor=white" alt="n8n" /></a></td><td>Automação de fluxos de trabalho com interface visual.</td></tr>
@@ -175,7 +175,7 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <table width="100%">
   <thead>
-    <tr><th align="left">Especificação</th><th align="left">i5-4570 (atual)</th><th align="left">i7-4790</th></tr>
+    <tr><th align="left" width="40%">Especificação</th><th align="left" width="30%">i5-4570 (atual)</th><th align="left" width="30%">i7-4790</th></tr>
   </thead>
   <tbody>
     <tr><td>Cores/Threads</td><td>4/4</td><td>4/8</td></tr>
