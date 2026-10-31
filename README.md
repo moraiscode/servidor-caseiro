@@ -61,8 +61,6 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 **Subtotal das peças listadas:** R$ 759,05
 
-> Observação: o orçamento informado (R$ 634,72) não coincide com o subtotal das peças listadas (R$ 759,05). A diferença ainda não está explicada neste documento.
-
 ---
 
 ## Hardware
