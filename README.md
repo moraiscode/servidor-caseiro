@@ -20,7 +20,7 @@ Documentação de um servidor doméstico montado com componentes reaproveitados 
 
 O equipamento usa **dual boot** em dois discos separados: uma distribuição Linux para os serviços e um sistema voltado para jogos.
 
-**Orçamento informado:** R$ 634,72.
+**Orçamento inicial:** R$ 634,72.
 
 ---
 
@@ -28,24 +28,24 @@ O equipamento usa **dual boot** em dois discos separados: uma distribuição Lin
 
 <p align="center">
   <picture>
-    <source srcset="img1.avif" type="image/avif" />
-    <source srcset="img1.webp" type="image/webp" />
-    <img src="img1.jpg" width="200" alt="Placa-mãe IPMH81G1 sobre saco antiestático" loading="lazy" />
+    <source srcset="img/img1.avif" type="image/avif" />
+    <source srcset="img/img1.webp" type="image/webp" />
+    <img src="img/img1.jpg" width="200" alt="Placa-mãe IPMH81G1 sobre saco antiestático" loading="lazy" />
   </picture>
   <picture>
-    <source srcset="img2.avif" type="image/avif" />
-    <source srcset="img2.webp" type="image/webp" />
-    <img src="img2.jpg" width="200" alt="Montagem com parafusadeira e fonte de alimentação" loading="lazy" />
+    <source srcset="img/img2.avif" type="image/avif" />
+    <source srcset="img/img2.webp" type="image/webp" />
+    <img src="img/img2.jpg" width="200" alt="Montagem com parafusadeira e fonte de alimentação" loading="lazy" />
   </picture>
   <picture>
-    <source srcset="img3.avif" type="image/avif" />
-    <source srcset="img3.webp" type="image/webp" />
-    <img src="img3.jpg" width="200" alt="Gabinete aberto com a placa-mãe instalada" loading="lazy" />
+    <source srcset="img/img3.avif" type="image/avif" />
+    <source srcset="img/img3.webp" type="image/webp" />
+    <img src="img/img3.jpg" width="200" alt="Gabinete aberto com a placa-mãe instalada" loading="lazy" />
   </picture>
   <picture>
-    <source srcset="img4.avif" type="image/avif" />
-    <source srcset="img4.webp" type="image/webp" />
-    <img src="img4.jpg" width="200" alt="Bancada de montagem" loading="lazy" />
+    <source srcset="img/img4.avif" type="image/avif" />
+    <source srcset="img/img4.webp" type="image/webp" />
+    <img src="img/img4.jpg" width="200" alt="Bancada de montagem" loading="lazy" />
   </picture>
 </p>
 
